@@ -1,0 +1,6 @@
+datasets==2.10.1
+huggingface_hub==0.12.1
+matplotlib==3.6.2
+Pillow==9.5.0
+pyarrow==10.0.1
+streamlit==1.15.2
